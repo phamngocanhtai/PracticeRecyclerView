@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">PracticeRecyclerView</string>
+    <string name="name">Name</string>
+    <string name="phone">NumberPhone</string>
+    <string name="des">Description</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="insert">Insert</string>
+    <string name="remove">Remove</string>
+    <string name="empty">Empty</string>
+
+</resources>
